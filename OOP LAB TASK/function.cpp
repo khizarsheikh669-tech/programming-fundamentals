@@ -6,7 +6,7 @@ struct student{
 	float gpa;
 	string semester;
 	string programname;
-	// ya avy tha
+	
 	float fee;
 	void setfee(double s){
 	fee=s;
@@ -16,7 +16,7 @@ struct student{
 int main()
 {
 	student s1,s2;
-	s1.name="Sajeel MiR";
+	s1.name="saIM";
 	s1.rollno=29;
 	s1.semester="2nd semester";
 	s1.gpa=4.00;
